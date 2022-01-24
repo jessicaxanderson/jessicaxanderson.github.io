@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+![Hello!](https://github.com/jessicaxanderson/jessicaxanderson.github.io/blob/main/JessicaAnderson_Headshot.png)
+## Jessica Anderson
 
-You can use the [editor on GitHub](https://github.com/jessicaxanderson/jessicaxanderson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I write about and design digital art. For the past 5 years, I've directed studios/labs at academic institutions and also [independently](https://www.intooutof.io/). I also tend to give talks, lead workshops, and consult in the area of technology and art. I have an MS in Digital Media and an MA in English. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the moment, I serve on the board of Fulton County's Public Art Futures Lab, am a member of the Atlanta Regional Commission's Emerging Technologies Roundtable, and have been working on a generative projection art piece that is integrated into Staib Dance's performance entitled [_Fence_](http://www.staibdance.com/fence ). 
+
+
 
 ### Markdown
 
